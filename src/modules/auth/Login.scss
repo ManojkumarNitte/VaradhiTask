@@ -1,0 +1,42 @@
+.login-card{
+    width: 40%;
+  height: 40%;
+    margin: auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    margin-top: 5rem;
+  
+box-shadow: 0px 3px 19px #0000002E;
+
+
+    
+}
+.form-align{
+    width: 70%;
+    margin: auto;
+}
+
+.card{
+    height: 20rem !important;
+}
+.label-color{
+    color: #4D4F5C;
+}
+.btn-cls{
+    background-color: #01A2C5;
+    padding: 7px 10px 7px 10px;
+    border-radius: 5px;
+    color: white;
+}
+
+.text-color{
+    color: #BAD3F4;
+    font-size: 26px;
+    margin-top: 10rem;
+
+}
+.company-logo{
+    background-color: #01A2C5;
+    background-size: cover;
+    height: 100vh;
+}
